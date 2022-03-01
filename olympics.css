@@ -42,7 +42,18 @@ text-align: center;
 
 }
 
-.center /*The class where the images is located*/
+body .centers  /*The class where the video player is located*/
+
+{
+width: 50%;
+
+margin: 0 auto;
+
+display: block;
+
+}
+
+.center /*The class where the rest of the images are located*/
 { 
 	display: block;
 	margin-left: auto;
